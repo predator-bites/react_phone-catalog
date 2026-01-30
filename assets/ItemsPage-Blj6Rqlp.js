@@ -1,4 +1,4 @@
-import{h as ge,j as U,a as ho,I as lo,c as ap,i as cp,r as nt,s as hp}from"./index-4SFVNe4J.js";import{C as gp,a as _p}from"./ProductsList-DsRVaiPE.js";import{C as pp}from"./ComponentTitle-C1qQAdD4.js";var or={exports:{}};/**
+import{h as ge,j as U,a as ho,I as lo,c as ap,i as cp,r as nt,s as hp}from"./index-BW-lOoYA.js";import{C as gp,a as _p}from"./ProductsList-BMEnlN8Z.js";import{C as pp}from"./ComponentTitle-C82fpGwe.js";var or={exports:{}};/**
  * @license
  * Lodash <https://lodash.com/>
  * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
