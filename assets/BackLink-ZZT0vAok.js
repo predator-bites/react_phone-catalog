@@ -1,0 +1,1 @@
+import{j as s,L as n,a as c,I as e}from"./index-B54olywx.js";const i=({additionalClass:a=""})=>s.jsxs(n,{to:"..",className:c("backLink",a),children:[s.jsx(e,{iconSlug:"ChevronLeft"}),s.jsx("span",{className:"backLink__text",children:"Back"})]});export{i as B};
